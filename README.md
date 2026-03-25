@@ -195,6 +195,7 @@ Carbon emissions can be estimated using the [Machine Learning Impact calculator]
 [More Information Needed]
 
 ## Model Card Contact
+[![Runpod](https://api.runpod.io/badge/devVibe1122/llama3-1_70b_together_model_cloned)](https://console.runpod.io/hub/devVibe1122/llama3-1_70b_together_model_cloned)
 
 [More Information Needed]
 ### Framework versions
